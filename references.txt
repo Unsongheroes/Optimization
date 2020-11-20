@@ -1,0 +1,9 @@
+https://cs231n.github.io/classification/
+https://towardsdatascience.com/principal-component-analysis-pca-with-scikit-learn-1e84a0c731b0
+https://dziganto.github.io/data%20science/linear%20regression/machine%20learning/python/Linear-Regression-101-Metrics/
+https://www.askpython.com/python/examples/load-and-plot-mnist-dataset-in-python
+https://en.wikipedia.org/wiki/Statistical_classification
+https://matplotlib.org/3.1.0/gallery/index.html
+Backpropagation in Perceptrons with Feedback Luís B. Almeida - springer 1989
+Introduction to neural networks Simon S Cross, Robert F Harrison, R Lee kennedy - 1995
+https://en.wikipedia.org/wiki/Backpropagation
